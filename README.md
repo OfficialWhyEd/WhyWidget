@@ -11,7 +11,7 @@ batteria di mouse e cuffie, stato del PC, e un ponte verso l'iPhone per copiare 
 | `programma/*.cs` | il programma vero in C# (WinForms): `Finestra`, `Tessere`, `Icone` animate, `Impostazioni`, `Ponte` |
 | `programma/COMPILA.cmd` | compila con il `csc` di .NET Framework, senza Visual Studio |
 | `WhyWidget.ps1` + `parti/` | la prima versione in PowerShell, ancora funzionante |
-| `Ponte.cs` | server HTTP sulla porta 8787: dal telefono si manda un testo e finisce negli appunti del PC |
+| `programma/Ponte.cs` | server HTTP sulla porta 8787: dal telefono si manda un testo e finisce negli appunti del PC |
 
 ## Come si usa
 ```
